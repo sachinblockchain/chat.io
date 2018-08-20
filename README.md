@@ -5,7 +5,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OmarElGabry/chat.io/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OmarElGabry/chat.io/?branch=master)
 [![Code Climate](https://codeclimate.com/github/OmarElGabry/chat.io/badges/gpa.svg)](https://codeclimate.com/github/OmarElGabry/chat.io)
 
-A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
+Explorer chat will be used for their Daily operation.
 
 ## Index
 + [Demo](#demo)
@@ -38,7 +38,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone https://github.com/OmarElGabry/chat.io.git
+	$ git clone https://github.com/sachinblockchain/chat.io.git
 	$ cd chat.io
 	```
 2. Install Dependencies
